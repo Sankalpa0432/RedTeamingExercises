@@ -1,4 +1,4 @@
-# SI-GuidedProject-525318-1688112583
+
 Red Team Exercises
 
 Team Members are
